@@ -1,4 +1,4 @@
-Installation and Configuration:
+Installation and Configuration (Microsoft Windows 10):
 
 
 1.	Download and install Java JDK from
@@ -30,7 +30,7 @@ a.	Under ‘Import source:’, choose either project “Directory…” or “Ar
         <version>4.3.3</version>
     </dependency>
 
-8.	Create a free account on https://home.openweathermap.org/users/sign_up and get your own API key. 
+8.	Create a free account on https://home.openweathermap.org/users/sign_up to get your own API key. 
 
 9.	To run the project, click on ‘Run’ under “Run” menu or simply hit ‘CTRL+F11’ simultaneously on your keyboard. The result is displayed in the ‘Console’ window.
 
