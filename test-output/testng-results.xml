@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-29T01:52:17 AEST" name="Default suite" finished-at="2021-04-29T01:52:19 AEST" duration-ms="2798">
+    <groups>
+    </groups>
+    <test started-at="2021-04-29T01:52:17 AEST" name="Default test" finished-at="2021-04-29T01:52:19 AEST" duration-ms="2798">
+      <class name="getRequest.SomeTestCases">
+        <test-method signature="getResponseHeaders()[pri:0, instance:getRequest.SomeTestCases@7880cdf3]" started-at="2021-04-29T01:52:17 AEST" name="getResponseHeaders" finished-at="2021-04-29T01:52:19 AEST" duration-ms="2744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseHeaders -->
+      </class> <!-- getRequest.SomeTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
